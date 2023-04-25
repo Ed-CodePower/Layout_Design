@@ -3,5 +3,19 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Karla", sans-serif;
+    font-weight: 400;
 }
 
+/* Sign Up section */
+.Sign_up{
+    background: hsl(179, 62%, 43%);
+}
+
+.Sign_up button{
+    background: hsl(71, 73%, 54%);
+}
+
+/* About Us section */
+.About_Us{
+    background: hsl(179, 51%, 46%, 0.8);
+}
