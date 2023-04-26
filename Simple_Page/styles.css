@@ -21,6 +21,8 @@ section{
 
 h1{
     margin-bottom: 20px;
+    color:hsl(179, 62%, 43%);
+    font-weight: 700;
 }
 
 h2{
@@ -28,14 +30,19 @@ h2{
     color: white;
 }
 
+/* Info section */
+.Info{
+    background: white;
+}
+
 .Yellow{
     color:hsl(71, 73%, 54%);
     font-weight: 700;
 }
 
-/* Info section */
-.Info{
-    background: white;
+.Info p{
+    color: hsl(218, 22%, 67%);
+    line-height: 2;
 }
 
 /* Sign Up section */
