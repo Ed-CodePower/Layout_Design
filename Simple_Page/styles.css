@@ -5,6 +5,32 @@
     font-family: "Karla", sans-serif;
     font-weight: 400;
 }
+body{
+    height: 100vh;
+    background: hsl(204, 43%, 93%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+section{
+    width: 90%;
+    
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+h2{
+    margin-bottom: 20px;
+}
+
+/* Info section */
+.Info{
+    background: white;
+}
 
 /* Sign Up section */
 .Sign_up{
@@ -18,4 +44,9 @@
 /* About Us section */
 .About_Us{
     background: hsl(179, 51%, 46%, 0.8);
+}
+
+/* all section */
+.Border div{
+    padding: 20px;
 }
