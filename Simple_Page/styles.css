@@ -25,6 +25,12 @@ h1{
 
 h2{
     margin-bottom: 20px;
+    color: white;
+}
+
+.Yellow{
+    color:hsl(71, 73%, 54%);
+    font-weight: 700;
 }
 
 /* Info section */
