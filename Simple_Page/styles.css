@@ -52,13 +52,22 @@ h2{
     background: hsl(179, 62%, 43%);
 }
 
+.Sign_up p{
+    margin-top: 7px;
+    font-size: 1.1rem;
+    color: hsl(204, 43%, 93%);
+}
+
 .Sign_up button{
     margin-top: 20px;
     background: hsl(71, 73%, 54%);
     border: none;
     border-radius: 5px;
     width: 100%;
-    padding: 10px 0;
+    padding: 15px 0;
+    color: white;
+    font-size: 1.1rem;
+    font-weight: 700;
 }
 
 /* About Us section */
