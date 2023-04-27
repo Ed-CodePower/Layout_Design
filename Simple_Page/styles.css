@@ -44,6 +44,7 @@ h2{
 
 .Info p{
     color: hsl(218, 22%, 67%);
+    font-size: 0.95rem;
     line-height: 2;
 }
 
