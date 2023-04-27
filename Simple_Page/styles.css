@@ -53,7 +53,12 @@ h2{
 }
 
 .Sign_up button{
+    margin-top: 20px;
     background: hsl(71, 73%, 54%);
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    padding: 10px 0;
 }
 
 /* About Us section */
