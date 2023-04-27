@@ -60,6 +60,7 @@ h2{
 
 .price{
     color: hsl(204, 43%, 93%);
+    vertical-align: super;
 }
 
 .dollar{
