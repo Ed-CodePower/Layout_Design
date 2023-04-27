@@ -58,6 +58,17 @@ h2{
     color: hsl(204, 43%, 93%);
 }
 
+.price{
+    color: hsl(204, 43%, 93%);
+}
+
+.dollar{
+    color: white;
+    font-size: 2rem;
+    font-weight: 700;
+    margin-right: 15px;
+}
+
 .Sign_up button{
     margin-top: 20px;
     background: hsl(71, 73%, 54%);
