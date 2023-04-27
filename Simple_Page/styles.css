@@ -87,6 +87,12 @@ h2{
     background: hsl(179, 51%, 46%, 0.8);
 }
 
+.About_Us p{
+    margin-top: 10px;
+    color: hsl(204, 43%, 93%);
+    font-size: 0.875rem;
+}
+
 /* all section */
 .Border div{
     padding: 20px;
